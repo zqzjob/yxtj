@@ -1,0 +1,4 @@
+insert into t_org_struc values ('e8162bfa-c3db-4837-bcfb-884618915709','','0002','吕吕行','0002','吕吕行')
+insert into t_org_struc values ('306f9e10-e6cb-493f-af0b-01033fa95396','','0003','阿斯蒂芬行','0003','阿斯蒂芬行')
+insert into t_org_struc values ('2fa87bc1-6a98-4e9a-b6a2-e37a67e7c981','','0004','压到行','0004','压到行')
+insert into t_org_struc values ('9a6b58f2-d503-4035-a524-32fce281ff4c','','0005','往前行','0005','往前行')
